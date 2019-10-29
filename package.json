@@ -1,0 +1,26 @@
+{
+  "name": "numero-a-letras-arg",
+  "version": "1.0.0",
+  "description": "Convierte un importe a letras (Pesos Argentinos)",
+  "main": "numero-a-letras-arg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleste/numero-a-letras.git"
+  },
+  "keywords": [
+    "numero",
+    "letras",
+    "pesos",
+    "convert",
+    "convertir"
+  ],
+  "author": "Alejandro Steinmetz <asteinmetz78@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleste/numero-a-letras/issues"
+  },
+  "homepage": "https://github.com/aleste/numero-a-letras#readme"
+}
